@@ -30,10 +30,10 @@ Print the total meal cost, where totalCost is the rounded integer result of the 
 
 ## Explanation
 
-**Given:**
+**Given:** </br>
 mealCost = 12, tipPercent = 20, taxPercent = 8 </br>
 
-**Calculations: **
+**Calculations:** </br>
  tipPercent = 12 * 20/100 = 2.4</br>
  taxPercent = 12 * 8/100 = 0.96</br>
  totalCost = mealCost + tip + tax = 12 + 2.4 + 0.96 = 15.36</br>
