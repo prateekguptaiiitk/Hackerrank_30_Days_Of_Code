@@ -10,3 +10,4 @@ This repository contains all my codes under 30 days of code course in hackerrank
 
 4. **Day 3: Intro to Conditional Statements**
 
+5. **Day 4: Class vs. Instance**
