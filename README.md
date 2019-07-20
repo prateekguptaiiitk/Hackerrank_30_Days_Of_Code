@@ -27,3 +27,5 @@ This repository contains all my codes under [30 days of code](https://www.hacker
 12.
 
 13.
+
+14.
