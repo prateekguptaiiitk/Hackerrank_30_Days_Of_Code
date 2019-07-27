@@ -11,27 +11,3 @@ This repository contains all my codes under [30 days of code](https://www.hacker
 4. **Day 3: Intro to Conditional Statements**
 
 5. **Day 4: Class vs. Instance**
-
-6. 
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
